@@ -350,46 +350,52 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div class="education text-center">
 	<div class="container">
 		<div class="edu-info">
-			<h3>VIDA ACADÊMICA</h3>
+			<h3><?php echo e("academic") ?></h3>
 		</div>
 		<div class="strip text-center"><img src="images/edu.png" alt=" "/></div>
 		<div class="edu-grids">
 			<div class="col-md-4 edu-grid">
-				<p>2015</p><span>Intercâmbio</span>
+				<p><?php echo e("academic-year-1") ?></p><span><?php echo e("academic-type-1") ?></span>
 				<img src="images/arrow.png" alt=""/>
 				<div class="edu-border">
 					<div class="edu-grid-master">
-						<h3>INGLÊS AVANÇADO</h3>
-						<h4>Delfin School</h4>
+						<h3><?php echo e("academic-title-1") ?></h3>
+						<h4><?php echo e("academic-place-1") ?></h4>
 					</div>
 					<div class="edu-grid-info">
-						<h5>Intercâmbio internacional em Dublin - Irlanda. Curso intensivo de inglês avançado.</h5>
+						<h5>
+							<?php echo e("academic-content-1") ?>
+						</h5>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-4 edu-grid">
-				<p>2014</p><span>Graduação</span>
+				<p><?php echo e("academic-year-2") ?></p><span><?php echo e("academic-type-2") ?></span>
 				<img src="images/arrow.png" alt=""/>
 				<div class="edu-border">
 					<div class="edu-grid-master">
-						<h3>ENGENHARIA DA COMPUTAÇÃO</h3>
-						<h4>Unifieo</h4>
+						<h3><?php echo e("academic-title-2") ?></h3>
+						<h4><?php echo e("academic-place-2") ?></h4>
 					</div>
 					<div class="edu-grid-info">
-						<h5>Ensino superior em Engenharia da Computação no centro universitário FIEO.</h5>
+						<h5>
+							<?php echo e("academic-content-2") ?>
+						</h5>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-4 edu-grid">
-				<p>2012</p><span>Graduação</span>
+				<p><?php echo e("academic-year-3") ?></p><span><?php echo e("academic-type-3") ?></span>
 				<img src="images/arrow.png" alt=""/>
 				<div class="edu-border">
 					<div class="edu-grid-master">
-						<h3>ANÁLISE DE SISTEMAS</h3>
-						<h4>Fatec</h4>
+						<h3><?php echo e("academic-title-3") ?></h3>
+						<h4><?php echo e("academic-place-3") ?></h4>
 					</div>
 					<div class="edu-grid-info">
-						<h5>Ensino superior em análise de sistemas com ênfase em segurança da informação.</h5>
+						<h5>
+							<?php echo e("academic-content-3") ?>
+						</h5>
 					</div>
 				</div>
 			</div>
@@ -405,34 +411,34 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div class="work-experience text-center">
 	<div class="container">
 		<div class="work-info">
-			<h3>VIDA PROFISSIONAL</h3>
+			<h3><?php echo e("professional") ?></h3>
 		</div>
 		<div class="strip text-center"><img src="images/work.png" alt=" "/></div>
 		<div class="work-grids">
 			<div class="col-md-4 w-grid">
 				<div class="work-grid">
 					<div class="work-grid-info">
-						<h4>Natura</h4>
-						<h5>Product Owner</h5>
-						<p>Atualmente trabalho como Product Owner de projetos mobile e web. Estamos em plena transformação digital e tenho grande orgulho de fazer parte desse movimento.</p>
+						<h4><?php echo e("professional-company-1") ?></h4>
+						<h5><?php echo e("professional-title-1") ?></h5>
+						<p><?php echo e("professional-content-1") ?></p>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-4 w-grid">
 				<div class="work-grid">
 					<div class="work-grid-info">
-						<h4>Aurum</h4>
-						<h5>Developer</h5>
-						<p>Atuei como desenvolvedor Java em um dos principais ativos digitais da empresa. Um sistema de apoio a departamentos jurídicos e escritórios de advocacia chamado Themis. </p>
+						<h4><?php echo e("professional-company-2") ?></h4>
+						<h5><?php echo e("professional-title-2") ?></h5>
+						<p><?php echo e("professional-content-2") ?></p>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-4 w-grid">
 				<div class="work-grid">
 					<div class="work-grid-info">
-						<h4>Thunt</h4>
-						<h5>Idealizador e developer</h5>
-						<p>Threasure Hunt: O Caçador de promoções. Um app de promoções dentro de shoppings e galerias. Além de ser um dos idealizados da ferramenta ajudei no desenvolvimento durante o período que morei na Irlanda. </p>
+						<h4><?php echo e("professional-company-3") ?></h4>
+						<h5><?php echo e("professional-title-3") ?></h5>
+						<p><?php echo e("professional-content-3") ?></p>
 					</div>
 				</div>
 			</div>
@@ -442,27 +448,27 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="col-md-4 w-grid">
 				<div class="work-grid">
 					<div class="work-grid-info">
-						<h4>Unify</h4>
-						<h5>Estagiário</h5>
-						<p>Atuei no setor de professional services apoiando processos de gestão e acompanhamento de projetos, especialmente em plataformas VMWare e URA Genesis.</p>
+						<h4><?php echo e("professional-company-4") ?></h4>
+						<h5><?php echo e("professional-title-4") ?></h5>
+						<p><?php echo e("professional-content-4") ?></p>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-4 w-grid">
 				<div class="work-grid">
 					<div class="work-grid-info">
-						<h4>Siemens Enterprise</h4>
-						<h5>Estagiário</h5>
-						<p>Apoiava na organização dos ativos digitais para colaboradores e participava de reuniões periódicas em inglês. Foi um período de descobertas corporativas e vivência profissional com o idioma.</p>
+						<h4><?php echo e("professional-company-5") ?></h4>
+						<h5><?php echo e("professional-title-5") ?></h5>
+						<p><?php echo e("professional-content-5") ?></p>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-4 w-grid">
 				<div class="work-grid">
 					<div class="work-grid-info">
-						<h4>Infopaginas</h4>
-						<h5>Sócio Fundador</h5>
-						<p>Durante quase 2 anos trabalhamos com diferentes tipos de mídia digital como websites, GoogleAdwords e FacebookAds. Trabalhava principalmente na área comercial e apoiava no desenvolvimento. Para mim foi um período de grande aprendizado. </p>
+						<h4><?php echo e("professional-company-6") ?></h4>
+						<h5><?php echo e("professional-title-6") ?></h5>
+						<p><?php echo e("professional-content-6") ?></p>
 					</div>
 				</div>
 			</div>
