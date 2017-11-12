@@ -11,6 +11,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html>
 <head>
 	<title><?php echo e("im") ?></title>
+	<link rel="icon"
+      type="image/png"
+      href="images/favicon.JPG">
 	<!--fonts-->
 		<link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
@@ -612,9 +615,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		</div>
 		<div class="contact-grids">
 			<div class="
-			col-md-4 col-md-offset-4 contact-left" style="text-align: center;">
+			" style="text-align: center;">
 				<h3><?php echo e("contact-invite") ?></h3>
-				<ul>
+				<ul style="list-style-type: none;">
 					<li><a target="_blank" href="mailto:tayan12@gmail.com">tayan_12@hotmail.com</a></li>
 					<li><a target="_blank" href="http://www.tayancordeiro.com.br">www.tayancordeiro.com.br</a></li>
 					<li><a target="_blank" href="tel:5511960728546">+55 11 960728546</a></li>
