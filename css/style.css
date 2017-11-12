@@ -2575,7 +2575,7 @@ border:none;
 	}
 	.contact-left {
 	  float: left;
-	  width: 34% !important;
+	  width: 100% !important;
 	}
 	.contact-right {
 	  float: right;
@@ -2685,7 +2685,7 @@ border:none;
 	}
 	.ser-grid {
 	  float: left;
-	  width: 50% !important;
+	  width: 100%;
 	}
 	.ser-grid:nth-child(1) ,.ser-grid:nth-child(3),.ser-grid:nth-child(2){
 	margin-bottom:30px;
@@ -2711,7 +2711,7 @@ border:none;
 	}
 	.blog-text-info {
 	  float: left;
-	  width: 48.2%;
+	  width: 100%;
 	  }
 	.blog-text-info:nth-child(6),.blog-text-info:nth-child(4),.blog-text-info:nth-child(2){
 	  margin-right: 0;

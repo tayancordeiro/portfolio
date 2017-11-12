@@ -51,9 +51,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<script src="js/classie.js"></script>
 			<!--top-nav---->
 			<div class="top-nav">
-				<a href="?lang=pt" class="right_bt"><img style="width: 2em; height: 2em;" src="images/lang_pt.png" alt=""/></a>
-				<a href="?lang=en" class="right_bt"><img style="width: 2em; height: 2em;" src="images/lang_en.png" alt=""/></a>
-				<a href="?lang=es" class="right_bt"><img style="width: 2em; height: 2em;" src="images/lang_es.png" alt=""/></a>
+				<a href="?lang=pt" class="right_bt" title="<?php echo e("lang-name-1") ?>"><img style="width: 2em; height: 2em;" src="images/lang_pt.png" alt=""/></a>
+				<a href="?lang=en" class="right_bt" title="<?php echo e("lang-name-2") ?>"><img style="width: 2em; height: 2em;" src="images/lang_en.png" alt=""/></a>
+				<a href="?lang=es" class="right_bt" title="<?php echo e("lang-name-3") ?>"><img style="width: 2em; height: 2em;" src="images/lang_es.png" alt=""/></a>
 			</div>
 
 			<!---start-click-drop-down-menu----->
@@ -608,7 +608,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 <!--contact-->
 <div class="contact" id="contact">
-	<div class="container">
+	<div class="container" style = "padding-bottom: 5%;">
 		<div class="contact-info text-center">
 			<h3><?php echo e("contact") ?></h3>
 			<div class="strip text-center"><img src="images/con1.png" alt=" "/></div>
@@ -622,6 +622,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<li><a target="_blank" href="http://www.tayancordeiro.com.br">www.tayancordeiro.com.br</a></li>
 					<li><a target="_blank" href="tel:5511960728546">+55 11 960728546</a></li>
 				</ul>
+				<div style="padding: 1em 0px 1em 0;">
+					<a href="?lang=pt" class="right_bt" title="<?php echo e("lang-name-1") ?>"><img style="width: 2em; height: 2em;" src="images/lang_pt.png" alt=""/></a>
+					<a href="?lang=en" class="right_bt" title="<?php echo e("lang-name-2") ?>"><img style="width: 2em; height: 2em;" src="images/lang_en.png" alt=""/></a>
+					<a href="?lang=es" class="right_bt" title="<?php echo e("lang-name-3") ?>"><img style="width: 2em; height: 2em;" src="images/lang_es.png" alt=""/></a>
+				</div>
 			</div>
 			<div class="clearfix"></div>
 		</div>
@@ -629,7 +634,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 </div>
 <!--//contact-->
 
-<div class="footer-top"></div>
+<!-- <div class="footer-top"></div> -->
 <!--resume-->
 <!--
 <div class="resume text-center">
@@ -653,7 +658,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				};
 			*/
 
-			$().UItoTop({ easingType: 'easeOutQuart' });
+			//$().UItoTop({ easingType: 'easeOutQuart' });
 
 			});
 	</script>
