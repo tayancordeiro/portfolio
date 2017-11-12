@@ -262,7 +262,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										<?php echo e("testimonial-content-2") ?>
 									</p>
 									<h4>
-										<?php echo e("testimonial-person-1") ?>
+										<?php echo e("testimonial-person-2") ?>
 									</h4>
 								</div>
 								<div class="clearfix"></div>

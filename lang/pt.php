@@ -22,7 +22,7 @@
         "projects-name-3" => "App Thunt",
         "projects-title-3" => "Idealizador e developer",
         "projects-name-4" => "Themis",
-        "projects-title-4" => "Web Developer",
+        "projects-title-4" => "Developer",
         "projects-name-5" => "App Colaborador Natura",
         "projects-title-5" => "Product Owner",
         "projects-name-6" => "FAQ",
@@ -33,7 +33,7 @@
         "testimonial-content-1" => "Foco e determinacao, pontos chaves para qualquer empreendimento de sucesso. Tive o prazer de conseguir ambos trabalhando juntos.",
         "testimonial-person-1" => "Thiago Lopes - Co-fundador en <b>Thunt</b>",
         "testimonial-content-2" => "Tive a oportunidade trabalhar com o Tayan no time de inovação digital na Natura em projetos web e mobile. Sobre seu perfil: ele possui habilidades para analisar, desenvolver, testar e gerenciar projetos de software com qualidade. É um profissional focado em alcançar os objetivos da empresa, entusiasta, praticante de metodologias ágeis e sempre atento as boas práticas de mercado.",
-        "testimonial-person-2" => "Renan Bonnete - Parceiro de trabalho na <b>Natura</b>",
+        "testimonial-person-2" => "Renan Bonette - Parceiro de trabalho na <b>Natura</b>",
 
         //ACADEMIC LIFE
         "academic" => "VIDA ACADÊMICA",
