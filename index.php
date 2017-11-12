@@ -258,8 +258,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									<img src="images/eee.png" alt=""/>
 								</div>
 								<div class="test-right">
-									<p>Tive a oportunidade trabalhar com o Tayan no time de inovação digital na Natura em projetos web e mobile. Sobre seu perfil: ele possui habilidades para analisar, desenvolver, testar e gerenciar projetos de software com qualidade. É um profissional focado em alcançar os objetivos da empresa, entusiasta, praticante de metodologias ágeis e sempre atento as boas práticas de mercado.</p>
-									<h4>Renan Bonnete - Parceiro de trabalho na <b>Natura</b></h4>
+									<p>
+										<?php echo e("testimonial-content-2") ?>
+									</p>
+									<h4>
+										<?php echo e("testimonial-person-1") ?>
+									</h4>
 								</div>
 								<div class="clearfix"></div>
 							</div>
@@ -484,24 +488,28 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div class="services text-center" id="services">
 	<div class="container">
 		<div class="ser-info">
-			<h3>IDIOMAS</h3>
+			<h3><?php echo e("lang") ?></h3>
 		</div>
 		<div class="strip text-center"><img src="images/con1.png" alt=" "/></div>
 		<div class="ser-grids">
 			<div class="col-md-4 ser-grid">
 				<div class="ser-imagea"></div>
-				<h3>Português</h3>
-				<p>Nativo</p>
+				<h3><?php echo e("lang-name-1") ?></h3>
+				<p><?php echo e("lang-content-1") ?></p>
 			</div>
 			<div class="col-md-4 ser-grid">
 				<div class="ser-imageb"></div>
-				<h3>Inglês</h3>
-				<p>Avançado com experiência internacional e corporativa</p>
+				<h3><?php echo e("lang-name-2") ?></h3>
+				<p>
+					<?php echo e("lang-content-2") ?>
+				</p>
 			</div>
 			<div class="col-md-4 ser-grid">
 				<div class="ser-imagec"></div>
-				<h3>Espanhol</h3>
-				<p>Intermediário com vivência corporativa</p>
+				<h3><?php echo e("lang-name-3") ?></h3>
+				<p>
+					<?php echo e("lang-content-3") ?>
+				</p>
 			</div>
 			<div class="clearfix"></div>
 		</div>
@@ -513,7 +521,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div class="blog" id="blog">
 	<div class="container">
 		<div class="blog-info text-center">
-			<h3>VIDA PESSOAL</h3>
+			<h3><?php echo e("personal") ?></h3>
 			<div class="strip text-center"><img src="images/about.png" alt=" "/></div>
 		</div>
 		<div class="blog-grids">
@@ -521,9 +529,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="blog-grid">
 					<img src="images/a.jpg" alt=""/>
 					<div class="blog-text">
-						<a>Música</a>
+						<a><?php echo e("personal-title-1") ?></a>
 						<div class="stripa"></div>
-						<p>Sou apaixonado por música, especialmente por instrumentos de corda. Sempre que posso tenho o costume de compor letras e melodias. Sinto que dessa forma deixo meu legado no mundo. Conheça mais no <a style="font-size: 16px; font-weight: normal;" target="_blank" href="https://open.spotify.com/user/12182418668/playlist/2zhf99kGHJELhKzSd3Z57X">Spotify</a> e aproveite ;)</p>
+						<p>
+							<?php echo e("personal-content-1") ?>
+						</p>
 					</div>
 				</div>
 			</div>
@@ -531,9 +541,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="blog-grid">
 					<img src="images/b.jpg" alt=""/>
 					<div class="blog-text">
-						<a>Viagens</a>
+						<a><?php echo e("personal-title-2") ?></a>
 						<div class="stripa"></div>
-						<p>"No plan, No rush". Gosto de viajar sem muitos planos. Geralmente escolho as praias, mas gosto de praticamente todos os tipos de viagem, especialmente as que me desafiam de alguma forma. Veja algumas fotos no meu <a style="font-size: 16px; font-weight: normal;" target="_blank" href="https://drive.google.com/drive/folders/0B-hAEy4jeFwASUN5aXZnWlJLMW8?usp=sharing">GoogleDrive </a> </p>
+						<p>
+							<?php echo e("personal-content-2") ?>
+						</p>
 					</div>
 				</div>
 			</div>
@@ -541,9 +553,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="blog-grid">
 					<img src="images/c.jpg" alt=""/>
 					<div class="blog-text">
-						<a>Família</a>
+						<a><?php echo e("personal-title-3") ?></a>
 						<div class="stripa"></div>
-						<p>Devo grande parte da minha tragetória pessoal e profissional à minha família. Sem o apoio deles certamente não teria alcançado alguns objetivos que foram muito importante para minha vida pessoal e profissional. São meu porto seguro<br></p>
+						<p>
+							<?php echo e("personal-content-3") ?>
+						</p>
 					</div>
 				</div>
 			</div>
@@ -551,9 +565,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="blog-grid">
 					<img src="images/d.jpg" alt=""/>
 					<div class="blog-text">
-						<a>Livros</a>
+						<a><?php echo e("personal-title-4") ?></a>
 						<div class="stripa"></div>
-						<p>Gosto de livros pragmáticos e com conteúdos que me ajudem a desempenhar melhor os diferentes papéis que exerço no mundo. Dentre minhas últimas leituras estão 'The Lean Startup', 'The Agile Mind' e 'O Corpo Fala'.</p>
+						<p>
+							<?php echo e("personal-content-4") ?>
+						</p>
 					</div>
 				</div>
 			</div>
@@ -561,9 +577,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="blog-grid">
 					<img src="images/e.jpg" alt=""/>
 					<div class="blog-text">
-						<a>Esportes</a>
+						<a><?php echo e("personal-title-5") ?></a>
 						<div class="stripa"></div>
-						<p>Confesso que gostaria de ter mais tempo para praticar >.<, mas tenho o esporte como principal aliado para manter uma vida saudável em meio a uma agenda quase sempre cheia. Futebol, Muay Thai, Natação e academia estão entre os meus preferidos.</p>
+						<p>
+							<?php echo e("personal-content-5") ?>
+						</p>
 					</div>
 				</div>
 			</div>
@@ -571,9 +589,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="blog-grid">
 					<img src="images/f.jpg" alt=""/>
 					<div class="blog-text">
-						<a>Atividades voluntárias</a>
+						<a><?php echo e("personal-title-6") ?></a>
 						<div class="stripa"></div>
-						<p>Eventualmente organizo, junto com alguns amigos, ações voluntárias. Visitas e doações a orfanatos, apoio técnico em comunidades cristãs e música!    </p>
+						<p>
+							<?php echo e("personal-content-6") ?>
+						</p>
 					</div>
 				</div>
 			</div>
@@ -587,13 +607,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div class="contact" id="contact">
 	<div class="container">
 		<div class="contact-info text-center">
-			<h3>CONTATO</h3>
+			<h3><?php echo e("contact") ?></h3>
 			<div class="strip text-center"><img src="images/con1.png" alt=" "/></div>
 		</div>
 		<div class="contact-grids">
 			<div class="
 			col-md-4 col-md-offset-4 contact-left" style="text-align: center;">
-				<h3>Aceita um cafézinho? ☕</h3>
+				<h3><?php echo e("contact-invite") ?></h3>
 				<ul>
 					<li><a target="_blank" href="mailto:tayan12@gmail.com">tayan_12@hotmail.com</a></li>
 					<li><a target="_blank" href="http://www.tayancordeiro.com.br">www.tayancordeiro.com.br</a></li>

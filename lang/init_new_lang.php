@@ -1,5 +1,5 @@
 <?php
-   // Name: es.php
+   // Name: ***.php
     $lang = array (
 
        //"String" => "",Translated String",

@@ -1,5 +1,5 @@
 <?php
-   // Name: fr.php
+   // Name: pt.php
     $lang = array (
 
        //"String" => "Translated String",
@@ -32,6 +32,8 @@
         "testimonial" => "DEPOIMENTOS",
         "testimonial-content-1" => "Foco e determinacao, pontos chaves para qualquer empreendimento de sucesso. Tive o prazer de conseguir ambos trabalhando juntos.",
         "testimonial-person-1" => "Thiago Lopes - Co-fundador en <b>Thunt</b>",
+        "testimonial-content-2" => "Tive a oportunidade trabalhar com o Tayan no time de inovação digital na Natura em projetos web e mobile. Sobre seu perfil: ele possui habilidades para analisar, desenvolver, testar e gerenciar projetos de software com qualidade. É um profissional focado em alcançar os objetivos da empresa, entusiasta, praticante de metodologias ágeis e sempre atento as boas práticas de mercado.",
+        "testimonial-person-2" => "Renan Bonnete - Parceiro de trabalho na <b>Natura</b>",
 
         //ACADEMIC LIFE
         "academic" => "VIDA ACADÊMICA",
@@ -48,7 +50,7 @@
         "academic-year-3" => "2012",
         "academic-type-3" => "Graduação",
         "academic-title-3" => "ANÁLISE DE SISTEMAS",
-        "academic-place-3" => "v",
+        "academic-place-3" => "Fatec",
         "academic-content-3" => "Ensino superior em análise de sistemas com ênfase em segurança da informação.",
 
         //PROFESSIONAL LIFE
@@ -72,6 +74,33 @@
         "professional-title-6" => "Sócio Fundador",
         "professional-content-6" => "Durante quase 2 anos trabalhamos com diferentes tipos de mídia digital como websites, GoogleAdwords e FacebookAds. Trabalhava principalmente na área comercial e apoiava no desenvolvimento. Para mim foi um período de grande aprendizado.",
 
+        //LANGUAGES
+        "lang" => "IDIOMAS",
+        "lang-name-1" => "Português",
+        "lang-content-1" => "Nativo",
+        "lang-name-2" => "Inglês",
+        "lang-content-2" => "Avançado com experiência internacional e corporativa",
+        "lang-name-3" => "Espanhol",
+        "lang-content-3" => "Intermediário com vivência corporativa",
+
+        //PERSONAL
+        "personal" => "VIDA PESSOAL",
+        "personal-title-1" => "Música",
+        "personal-content-1" => "Sou apaixonado por música, especialmente por instrumentos de corda. Sempre que posso tenho o costume de compor letras e melodias. Sinto que dessa forma deixo meu legado no mundo. Conheça mais no <a style='font-size: 16px; font-weight: normal;'' target='_blank' href='https://open.spotify.com/user/12182418668/playlist/2zhf99kGHJELhKzSd3Z57X'>Spotify</a> e aproveite ;)",
+        "personal-title-2" => "Viagens",
+        "personal-content-2" => "'No plan, No rush'. Gosto de viajar sem muitos planos. Geralmente escolho as praias, mas gosto de praticamente todos os tipos de viagem, especialmente as que me desafiam de alguma forma. Veja algumas fotos no meu <a style='font-size: 16px; font-weight: normal;'' target='_blank' href='https://drive.google.com/drive/folders/0B-hAEy4jeFwASUN5aXZnWlJLMW8?usp=sharing'>GoogleDrive </a>",
+        "personal-title-3" => "Família",
+        "personal-content-3" => "Devo grande parte da minha tragetória pessoal e profissional à minha família. Sem o apoio deles certamente não teria alcançado alguns objetivos que foram muito importante para minha vida pessoal e profissional. São meu porto seguro<br>",
+        "personal-title-4" => "Livros",
+        "personal-content-4" => "Gosto de livros pragmáticos e com conteúdos que me ajudem a desempenhar melhor os diferentes papéis que exerço no mundo. Dentre minhas últimas leituras estão 'The Lean Startup', 'The Agile Mind' e 'O Corpo Fala'.",
+        "personal-title-5" => "Esportes",
+        "personal-content-5" => "Confesso que gostaria de ter mais tempo para praticar >.<, mas tenho o esporte como principal aliado para manter uma vida saudável em meio a uma agenda quase sempre cheia. Futebol, Muay Thai, Natação e academia estão entre os meus preferidos.",
+        "personal-title-6" => "Atividades voluntárias",
+        "personal-content-6" => "Eventualmente organizo, junto com alguns amigos, ações voluntárias. Visitas e doações a orfanatos, apoio técnico em comunidades cristãs e música!",
+
+        //CONTATO
+        "contact" => "CONTATO",
+        "contact-invite" => "Aceita um cafézinho? ☕",
 
     );
 
