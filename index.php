@@ -361,7 +361,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		</div>
 		<div class="strip text-center"><img src="images/edu.png" alt=" "/></div>
 		<div class="edu-grids">
-			<div class="col-md-4 edu-grid">
+			<div class="col-md-3 edu-grid">
 				<p><?php echo e("academic-year-1") ?></p><span><?php echo e("academic-type-1") ?></span>
 				<img src="images/arrow.png" alt=""/>
 				<div class="edu-border">
@@ -376,7 +376,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4 edu-grid">
+			<div class="col-md-3 edu-grid">
 				<p><?php echo e("academic-year-2") ?></p><span><?php echo e("academic-type-2") ?></span>
 				<img src="images/arrow.png" alt=""/>
 				<div class="edu-border">
@@ -391,7 +391,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4 edu-grid">
+			<div class="col-md-3 edu-grid">
 				<p><?php echo e("academic-year-3") ?></p><span><?php echo e("academic-type-3") ?></span>
 				<img src="images/arrow.png" alt=""/>
 				<div class="edu-border">
@@ -402,6 +402,21 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="edu-grid-info">
 						<h5>
 							<?php echo e("academic-content-3") ?>
+						</h5>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3 edu-grid">
+				<p><?php echo e("academic-year-4") ?></p><span><?php echo e("academic-type-4") ?></span>
+				<img src="images/arrow.png" alt=""/>
+				<div class="edu-border">
+					<div class="edu-grid-master">
+						<h3><?php echo e("academic-title-4") ?></h3>
+						<h4><?php echo e("academic-place-4") ?></h4>
+					</div>
+					<div class="edu-grid-info">
+						<h5>
+							<?php echo e("academic-content-4") ?>
 						</h5>
 					</div>
 				</div>
