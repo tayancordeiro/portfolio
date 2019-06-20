@@ -3,9 +3,8 @@
     $lang = array (
 
        //"String" => "",Translated String",
-        "im" => "",
         "title" => "Tayan Cordeiro",
-        "subtitle" => "Agile, Design and Innovation",
+        "subtitle" => "Agile, Design, Tecnology and Innovation",
         "change-lang" => "Change Language",
         
         //ABOUT
@@ -13,7 +12,8 @@
         "about-content" => "Computer engineer, musician, backpacker and passionate about technology and <b>innovation</b>. Crazy about my family and influencing people.
 				I lived for a few months in Ireland and I believe that life <b>sharing</b> produces learning and maturity, so I intend to share my personal and professional life to produce a better world.
 				I believe in 'Agile' and its different forms of application as the main tool of corporate <b>changing</b>.",
-        "about-music" => "“We still have a lot to do <br>Do not look back. The world starts now <br/>We just started... &#9836;&#9836;” <br/> (Renato Russo)",
+        "about-music" => "“Technology is unlocking the innate compassion we have for our fellow human beings.” <br/> (Bill Gates)",
+
 
         //PROJECTS
         "projects" => "PROJECTS",

@@ -3,16 +3,15 @@
     $lang = array (
 
        //"String" => "",Translated String",
-        "im" => "I'm Tayan",
-        "title" => "Ingeniero de <br>Computación",
-        "subtitle" => "Agil, Design y Inovación",
+        "title" => "Tayan Cordeiro",
+        "subtitle" => "Agil, Design, Tecnologia y  Inovación",
         "change-lang" => "Cambiar Idioma",
         //ABOUT
         "about" => "SOBRE MI",
         "about-content" => "Ingeniero de computación, músico, mochilero y apasionado de la tecnología y la <b>innovación</b>. Loco por mi familia y por influenciar a las personas.
   			Morei por algunos meses en Irlanda y creo que el <b>encuentro</b> de vidas genera el aprendizaje y la madurez, así que quiero compartir mi vida personal y profesional para generar un mundo mejor.
   			Creo en el ''Ágil' y sus diferentes formas de aplicación como la principal herramienta de <b>transformación</b> corporativa.",
-        "about-music" => "“Tenemos mucho por hacer <br>No mires para atras. El mundo comienza ahora <br/>Sólo empezamos... &#9836;&#9836;” <br/> (Renato Russo)",
+        "about-music" => "“La tecnología está desbloqueando la compasión innata que tenemos por nuestros semejantes.” <br/> (Bill Gates)",
 
         //PROJECTS
         "projects" => "PROYECTOS",
