@@ -3,8 +3,9 @@
     $lang = array (
 
        //"String" => "",Translated String",
-        "im" => "I'm Tayan",
-        "title" => "Computer <br>Engineer",
+        "im" => "",
+        "title" => "Tayan Cordeiro",
+        "subtitle" => "Agile, Design and Innovation",
         "change-lang" => "Change Language",
         
         //ABOUT

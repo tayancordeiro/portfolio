@@ -88,12 +88,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<img src="images/1.png" alt=""/>
 			</div>
 			<div class="banner-right">
-				<h1><?php echo e("im") ?></h1>
-				<div class="border"></div>
 				<h2><?php echo e("title") ?></h2>
-				<!--
-				<a href="cv.pdf">BAIXE MEU CV</a>
-				-->
+				<div class="border"></div>
+				<br/>
+				<p><?php echo e("subtitle") ?></p>
+				<!-- <a href="cv.pdf">BAIXE MEU CV</a> -->
 			</div>
 			<div class="clearfix"></div>
 		</div>

@@ -156,6 +156,10 @@ float:left;
 .banner-right{
 float:right;
 }
+.banner-right p{
+color: white;
+    font-size: 1.4em;
+}
 .border {
   background: #52edc7;
   width: 70%;

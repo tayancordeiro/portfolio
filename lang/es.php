@@ -5,6 +5,7 @@
        //"String" => "",Translated String",
         "im" => "I'm Tayan",
         "title" => "Ingeniero de <br>Computación",
+        "subtitle" => "Agil, Design y Inovación",
         "change-lang" => "Cambiar Idioma",
         //ABOUT
         "about" => "SOBRE MI",
