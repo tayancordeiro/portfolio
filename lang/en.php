@@ -5,6 +5,8 @@
        //"String" => "",Translated String",
         "im" => "I'm Tayan",
         "title" => "Computer <br>Engineer",
+        "change-lang" => "Change Language",
+        
         //ABOUT
         "about" => "ABOUT ME",
         "about-content" => "Computer engineer, musician, backpacker and passionate about technology and <b>innovation</b>. Crazy about my family and influencing people.
@@ -85,9 +87,9 @@
         "lang-name-1" => "Potugese",
         "lang-content-1" => "Native",
         "lang-name-2" => "English",
-        "lang-content-2" => "Advanced with international and corporate experience",
+        "lang-content-2" => "Advanced",
         "lang-name-3" => "Spanish",
-        "lang-content-3" => "Intermediate with corporate experience",
+        "lang-content-3" => "Advanced",
 
         //PERSONAL
         "personal" => "PERSONAL LIFE",

@@ -3503,5 +3503,7 @@ a.callbacks_nav.callbacks1_nav.prev {
 	  }
 }
 
-
+.change-lang {
+  color: white;
+}
 /*-- responsive media queries --*/

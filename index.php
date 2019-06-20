@@ -51,6 +51,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<script src="js/classie.js"></script>
 			<!--top-nav---->
 			<div class="top-nav">
+				<p class="change-lang"> <?php echo e("change-lang") ?> </p>	
 				<a href="?lang=pt" class="right_bt" title="<?php echo e("lang-name-1") ?>"><img style="width: 2em; height: 2em;" src="images/lang_pt.png" alt=""/></a>
 				<a href="?lang=en" class="right_bt" title="<?php echo e("lang-name-2") ?>"><img style="width: 2em; height: 2em;" src="images/lang_en.png" alt=""/></a>
 				<a href="?lang=es" class="right_bt" title="<?php echo e("lang-name-3") ?>"><img style="width: 2em; height: 2em;" src="images/lang_es.png" alt=""/></a>
@@ -127,7 +128,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<h3><?php echo e("projects") ?></h3>
 		<div class="strip text-center"><img src="images/port.png" alt=" "/></div>
 		<p>
-			<?php echo e("projects-content") ?>
 		<div class="gallery-grids">
 			<div class="top-gallery">
 				<div class="col-md-4 gallery-grid gallery1">

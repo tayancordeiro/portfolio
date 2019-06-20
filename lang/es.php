@@ -5,6 +5,7 @@
        //"String" => "",Translated String",
         "im" => "I'm Tayan",
         "title" => "Ingeniero de <br>Computación",
+        "change-lang" => "Cambiar Idioma",
         //ABOUT
         "about" => "SOBRE MI",
         "about-content" => "Ingeniero de computación, músico, mochilero y apasionado de la tecnología y la <b>innovación</b>. Loco por mi familia y por influenciar a las personas.
@@ -86,9 +87,9 @@
         "lang-name-1" => "Portugues",
         "lang-content-1" => "Nativo",
         "lang-name-2" => "Inglés",
-        "lang-content-2" => "Avanzado com experiência internacional e profesional",
+        "lang-content-2" => "Avanzado",
         "lang-name-3" => "Español",
-        "lang-content-3" => "Intermedio com experiencia profesional",
+        "lang-content-3" => "Avanzado",
 
         //PERSONAL
         "personal" => "VIDA PESSOAL",
