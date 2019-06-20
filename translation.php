@@ -1,5 +1,5 @@
 <?php
-	$base_lang="pt"; // Set the default language
+	$base_lang="en"; // Set the default language
 ?>
 
 <?php
