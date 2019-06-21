@@ -62,6 +62,19 @@
         "academic-place-4" => "Fatec",
         "academic-content-4" => "College course in systems analysis with emphasis on information security.",
 
+        //COURSES
+        "courses" => "COURSES",
+        "courses-title-1" => "BUSINESS DESIGN",
+        "courses-place-1" => "Echos Innovation Lab",
+        "courses-title-2" => "DESIGN THINKING EXPERIENCE",
+        "courses-place-2" => "Echos Innovation Lab",
+        "courses-title-3" => "FACILITATION EXPERIENCE",
+        "courses-place-3" => "Echos Innovation Lab",
+        "courses-title-4" => "GAMIFICATION",
+        "courses-place-4" => "Fiap",
+        "courses-title-5" => "SERVICE DESIGN",
+        "courses-place-5" => "Echos Innovation Lab",
+
         //PROFESSIONAL LIFE
         "professional" => "PROFESSIONAL LIFE",
         "professional-company-1" => "Natura",

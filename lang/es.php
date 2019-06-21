@@ -61,6 +61,19 @@
         "academic-place-4" => "Fatec",
         "academic-content-4" => "Univerdidad en Analisis de Sistemas con énfasis en seguridad de la información.",
 
+        //COURSES
+        "courses" => "CURSOS",
+        "courses-title-1" => "BUSINESS DESIGN",
+        "courses-place-1" => "Echos Innovation Lab",
+        "courses-title-2" => "DESIGN THINKING EXPERIENCE",
+        "courses-place-2" => "Echos Innovation Lab",
+        "courses-title-3" => "FACILITATION EXPERIENCE",
+        "courses-place-3" => "Echos Innovation Lab",
+        "courses-title-4" => "GAMIFICATION",
+        "courses-place-4" => "Fiap",
+        "courses-title-5" => "SERVICE DESIGN",
+        "courses-place-5" => "Echos Innovation Lab",
+
         //PROFESSIONAL LIFE
         "professional" => "VIDA PROFESIONAL",
         "professional-company-1" => "Natura",

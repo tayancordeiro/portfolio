@@ -425,8 +425,92 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	</div>
 
 </div>
+
 <!--//education-->
 <div class="strip-border"><p></p></div>
+
+
+
+
+<!--courses-->
+<div class="education text-center">
+	<div class="container">
+		<div class="edu-info">
+			<h3><?php echo e("courses") ?></h3>
+		</div>
+		<div class="strip text-center"><img src="images/edu.png" alt=" "/></div>
+		<div class="edu-grids">
+			<div class="col-md-4 edu-grid">
+				<div class="edu-border">
+					<div class="edu-grid-master">
+						<h3><?php echo e("courses-title-1") ?></h3>
+					</div>
+					<div class="edu-grid-info">
+						<h5>
+							<?php echo e("courses-place-1") ?>
+						</h5>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 edu-grid">
+				<div class="edu-border">
+					<div class="edu-grid-master">
+						<h3><?php echo e("courses-title-2") ?></h3>
+					</div>
+					<div class="edu-grid-info">
+						<h5>
+							<?php echo e("courses-place-2") ?>
+						</h5>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 edu-grid">
+				<div class="edu-border">
+					<div class="edu-grid-master">
+						<h3><?php echo e("courses-title-3") ?></h3>
+					</div>
+					<div class="edu-grid-info">
+						<h5>
+							<?php echo e("courses-place-3") ?>
+						</h5>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 edu-grid">
+				<div class="edu-border">
+					<div class="edu-grid-master">
+						<h3><?php echo e("courses-title-4") ?></h3>
+					</div>
+					<div class="edu-grid-info">
+						<h5>
+							<?php echo e("courses-place-4") ?>
+						</h5>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 edu-grid">
+				<div class="edu-border">
+					<div class="edu-grid-master">
+						<h3><?php echo e("courses-title-5") ?></h3>
+					</div>
+					<div class="edu-grid-info">
+						<h5>
+							<?php echo e("courses-place-5") ?>
+						</h5>
+					</div>
+				</div>
+			</div>
+
+			
+			<div class="clearfix"></div>
+		</div>
+	</div>
+
+</div>
+
+<!--//courses-->
+<div class="strip-border"><p></p></div>
+
 
 <!--work-->
 <div class="work-experience text-center">
