@@ -288,7 +288,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								auto: true,
 								pager: false,
 								nav: true,
-								speed: 1000,
+								speed: 200,
 								namespace: "callbacks",
 								before: function () {
 							$('.events').append("<li>before event fired.</li>");
