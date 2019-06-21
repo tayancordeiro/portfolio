@@ -98,7 +98,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		</div>
 	</div>
 </div>
-<!--/header-banner-->
+
 
 <!--about-->
 <div class="about text-center" id="about">
@@ -129,29 +129,27 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<p>
 		<div class="gallery-grids">
 			<div class="top-gallery">
-				<div class="col-md-4 gallery-grid gallery1">
-					<img src="images/p1.jpg" class="img-responsive" alt="/">
+				<div class="col-md-3 gallery-grid gallery1">
+					<img src="images/p7.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
 							<h4>
-								<?php echo e("projects-name-1") ?>
+								<?php echo e("projects-name-7") ?>
 							</h4>
 							<p>
-								<?php echo e("projects-title-1") ?>
-							</p>
+								<?php echo e("projects-title-7") ?>
 						</div>
 				</div>
-				<div class="col-md-4 gallery-grid gallery1">
-					<img src="images/p2.jpg" class="img-responsive" alt="/">
+				<div class="col-md-3 gallery-grid gallery1">
+					<img src="images/p8.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
 							<h4>
-								<?php echo e("projects-name-2") ?>
+								<?php echo e("projects-name-8") ?>
 							</h4>
 							<p>
-								<?php echo e("projects-title-2") ?>
-							</p>
+								<?php echo e("projects-title-8") ?>
 						</div>
 				</div>
-				<div class="col-md-4 gallery-grid gallery1">
+				<div class="col-md-3 gallery-grid gallery1">
 					<img src="images/p3.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
 							<h4>
@@ -162,7 +160,51 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</p>
 						</div>
 				</div>
-				<div class="col-md-4 gallery-grid gallery1">
+				<div class="col-md-3 gallery-grid gallery1">
+					<img src="images/p12.jpg" class="img-responsive" alt="/">
+						<div class="textbox">
+							<h4>
+								<?php echo e("projects-name-12") ?>
+							</h4>
+							<p>
+								<?php echo e("projects-title-12") ?>
+							</p>
+						</div>
+				</div>
+				<div class="col-md-3 gallery-grid gallery1">
+					<img src="images/p2.jpg" class="img-responsive" alt="/">
+						<div class="textbox">
+							<h4>
+								<?php echo e("projects-name-2") ?>
+							</h4>
+							<p>
+								<?php echo e("projects-title-2") ?>
+							</p>
+						</div>
+				</div>
+				<div class="col-md-3 gallery-grid gallery1">
+					<img src="images/p1.jpg" class="img-responsive" alt="/">
+						<div class="textbox">
+							<h4>
+								<?php echo e("projects-name-1") ?>
+							</h4>
+							<p>
+								<?php echo e("projects-title-1") ?>
+							</p>
+						</div>
+				</div>
+				<div class="col-md-3 gallery-grid gallery1">
+					<img src="images/p11.jpg" class="img-responsive" alt="/">
+						<div class="textbox">
+							<h4>
+								<?php echo e("projects-name-11") ?>
+							</h4>
+							<p>
+								<?php echo e("projects-title-11") ?>
+							</p>
+						</div>
+				</div>
+				<div class="col-md-3 gallery-grid gallery1">
 					<img src="images/p4.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
 							<h4>
@@ -173,7 +215,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</p>
 						</div>
 				</div>
-				<div class="col-md-4 gallery-grid gallery1">
+				<div class="col-md-3 gallery-grid gallery1">
 					<img src="images/p5.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
 							<h4>
@@ -184,7 +226,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</p>
 						</div>
 				</div>
-				<div class="col-md-4 gallery-grid gallery1">
+				<div class="col-md-3 gallery-grid gallery1">
 					<img src="images/p6.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
 							<h4>
@@ -195,6 +237,28 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</p>
 						</div>
 				</div>
+				<!-- <div class="col-md-3 gallery-grid gallery1">
+					<img src="images/p6.jpg" class="img-responsive" alt="/">
+						<div class="textbox">
+							<h4>
+								<?php echo e("projects-name-9") ?>
+							</h4>
+							<p>
+								<?php echo e("projects-title-9") ?>
+							</p>
+						</div>
+				</div> -->
+				<div class="col-md-3 gallery-grid gallery1">
+					<img src="images/p10.jpg" class="img-responsive" alt="/">
+						<div class="textbox">
+							<h4>
+								<?php echo e("projects-name-10") ?>
+							</h4>
+							<p>
+								<?php echo e("projects-title-10") ?>
+							</p>
+						</div>
+				</div>			
 				<div class="clearfix"> </div>
 			</div>
 				<link rel="stylesheet" href="css/swipebox.css">

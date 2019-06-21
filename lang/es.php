@@ -30,6 +30,18 @@
         "projects-title-5" => "Product Owner",
         "projects-name-6" => "FAQ",
         "projects-title-6" => "Product Owner",
+        "projects-name-7" => "Start55",
+        "projects-title-7" => "Idealizador y CTO",
+        "projects-name-8" => "Convergencia",
+        "projects-title-8" => "Scrum Master",
+        "projects-name-9" => "Adoro Maquiagem",
+        "projects-title-9" => "Product Owner",
+        "projects-name-10" => "Cadastro",
+        "projects-title-10" => "Product Owner",
+        "projects-name-11" => "Asistente Virtual 'Nat'",
+        "projects-title-11" => "Product Owner",
+        "projects-name-12" => "MasterChef Agile",
+        "projects-title-12" => "Idealizador y Conferenciante",        
 
         //TESTIMONIALS
         "testimonial" => "TESTIMONIOS",
