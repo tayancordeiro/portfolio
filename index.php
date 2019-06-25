@@ -99,7 +99,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<p>
 					<div class="gallery-grids">
 						<div class="top-gallery">
-							<a href="p1.php">
+							<a href="p.php?id=7">
 								<div class="col-md-3 gallery-grid gallery1">
 									<img src="images/p7.jpg" class="img-responsive" alt="/">
 									<div class="textbox">
@@ -112,7 +112,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									</div>
 								</div>
 							</a>
-							<a href="">
+							<a href="p.php?id=8">
 								<div class="col-md-3 gallery-grid gallery1">
 									<img src="images/p8.jpg" class="img-responsive" alt="/">
 									<div class="textbox">
@@ -125,7 +125,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									</div>
 								</div>
 							</a>
-							<a href="">
+							<a href="p.php?id=3">
 								<div class="col-md-3 gallery-grid gallery1">
 									<img src="images/p3.jpg" class="img-responsive" alt="/">
 									<div class="textbox">
@@ -139,7 +139,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>	
 							</a>
 
-							<a href="">
+							<a href="p.php?id=12">
 								<div class="col-md-3 gallery-grid gallery1">
 									<img src="images/p12.jpg" class="img-responsive" alt="/">
 									<div class="textbox">
@@ -153,7 +153,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>
 							</a>
 
-							<a href="">
+							<a href="p.php?id=2">
 								<div class="col-md-3 gallery-grid gallery1">
 									<img src="images/p2.jpg" class="img-responsive" alt="/">
 									<div class="textbox">
@@ -167,7 +167,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>
 							</a>
 
-							<a href="">
+							<a href="p.php?id=1">
 								<div class="col-md-3 gallery-grid gallery1">
 									<img src="images/p1.jpg" class="img-responsive" alt="/">
 									<div class="textbox">
@@ -181,7 +181,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>
 							</a>
 
-							<a href="">
+							<a href="p.php?id=11">
 								<div class="col-md-3 gallery-grid gallery1">
 									<img src="images/p11.jpg" class="img-responsive" alt="/">
 									<div class="textbox">
@@ -194,7 +194,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									</div>
 								</div>
 							</a>
-							<a href="">
+							
+							<a href="p.php?id=4">
 								<div class="col-md-3 gallery-grid gallery1">
 									<img src="images/p4.jpg" class="img-responsive" alt="/">
 									<div class="textbox">
@@ -207,7 +208,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									</div>
 								</div>
 							</a>
-							<a href="">
+							
+							<a href="p.php?id=5">
 								<div class="col-md-3 gallery-grid gallery1">
 									<img src="images/p5.jpg" class="img-responsive" alt="/">
 									<div class="textbox">
@@ -220,7 +222,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									</div>
 								</div>
 							</a>
-							<a href="">
+							
+							<a href="p.php?id=6">
 								<div class="col-md-3 gallery-grid gallery1">
 									<img src="images/p6.jpg" class="img-responsive" alt="/">
 									<div class="textbox">
@@ -234,7 +237,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>
 							</a>
 
-							<a href="">
+							<a href="p.php?id=10">
 								<div class="col-md-3 gallery-grid gallery1">
 									<img src="images/p10.jpg" class="img-responsive" alt="/">
 									<div class="textbox">
