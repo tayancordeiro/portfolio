@@ -1,24 +1,13 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
+
 <!DOCTYPE html>
-<!-- translate file -->
 <?php include("translation.php"); ?>
-<!-- translate file -->
 <html>
 
 <head>
 	<?php include("head.php"); ?>
-
 </head>
 
-
 <body>
-
-
 	<?php 
 
 	$pid = 5;//default project
@@ -69,7 +58,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										
 										echo "<div class='col-md-4 gallery-grid gallery1'><img src='images/projects/p".$pid."/".$value."' class='img-responsive' alt='/''></div>";
 									}
-									
+
 								}	 
 
 								?>
