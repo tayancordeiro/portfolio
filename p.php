@@ -35,7 +35,6 @@
 						<p><?php echo e($ptitle) ?></p>
 						<p><?php echo e($pdetail) ?></p>
 
-
 						<div class="gallery-grids">
 							<div class="top-gallery">
 
@@ -47,22 +46,19 @@
 									$filelist[] = $entry;
 								}
 
-								/*print_r($filelist);*/
-
 								foreach ($filelist as $key => $value) {
 
 									if ($value == "." || $value == ".."  ) {
-										//not valid files
-									}else {
-										/*echo nl2br ($key . " => " . $value . "\n");*/
-										
-										echo "<div class='col-md-4 gallery-grid gallery1'><img src='images/projects/p".$pid."/".$value."' class='img-responsive' alt='/''></div>";
+										//ignore invalid files
+									}else {										
+										echo "<div class='col-md-4 gallery-grid gallery1'>
+										<a target='_blank' href='images/projects/p".$pid."/".$value."'>
+										<img src='images/projects/p".$pid."/".$value."' class='img-responsive' alt='/'>
+										</a>
+										</div>";
 									}
-
 								}	 
-
 								?>
-
 								<div class="clearfix"> </div>
 							</div>
 						</div>
