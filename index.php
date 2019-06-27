@@ -1,9 +1,5 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
+
+
 <!DOCTYPE html>
 <!-- translate file -->
 <?php include("translation.php"); ?>
@@ -96,182 +92,218 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="container">
 				<h3><?php echo e("projects") ?></h3>
 				<div class="strip text-center"><img src="images/port.png" alt=" "/></div>
-				<p>
-					<div class="gallery-grids">
-						<div class="top-gallery">
-							<a href="p.php?id=7">
-								<div class="col-md-3 gallery-grid gallery1">
-									<img src="images/p7.jpg" class="img-responsive" alt="/">
-									<div class="textbox">
-										<h4>
-											<?php echo e("projects-name-7") ?>
-										</h4>
-										<p>
-											<?php echo e("projects-title-7") ?>
-										</p>
-									</div>
+				
+				<h2 style="text-align: left; color: white;"><?php echo e("projects-highlights") ?></h2>
+				<div class="gallery-grids">
+					<div class="top-gallery">
+						<a href="p.php?id=7">
+							<div class="col-md-3 gallery-grid gallery1">
+								<img src="images/p7.jpg" class="img-responsive" alt="/">
+								<div class="textbox">
+									<h4>
+										<?php echo e("projects-name-7") ?>
+									</h4>
+									<p>
+										<?php echo e("projects-title-7") ?>
+									</p>
 								</div>
-							</a>
-							<a href="p.php?id=8">
-								<div class="col-md-3 gallery-grid gallery1">
-									<img src="images/p8.jpg" class="img-responsive" alt="/">
-									<div class="textbox">
-										<h4>
-											<?php echo e("projects-name-8") ?>
-										</h4>
-										<p>
-											<?php echo e("projects-title-8") ?>
-										</p>
-									</div>
+							</div>
+						</a>
+						<a href="p.php?id=11">
+							<div class="col-md-3 gallery-grid gallery1">
+								<img src="images/p11.jpg" class="img-responsive" alt="/">
+								<div class="textbox">
+									<h4>
+										<?php echo e("projects-name-11") ?>
+									</h4>
+									<p>
+										<?php echo e("projects-title-11") ?>
+									</p>
 								</div>
-							</a>
-							<a href="p.php?id=3">
-								<div class="col-md-3 gallery-grid gallery1">
-									<img src="images/p3.jpg" class="img-responsive" alt="/">
-									<div class="textbox">
-										<h4>
-											<?php echo e("projects-name-3") ?>
-										</h4>
-										<p>
-											<?php echo e("projects-title-3") ?>
-										</p>
-									</div>
-								</div>	
-							</a>
+							</div>
+						</a>	
+						<a href="p.php?id=3">
+							<div class="col-md-3 gallery-grid gallery1">
+								<img src="images/p3.jpg" class="img-responsive" alt="/">
+								<div class="textbox">
+									<h4>
+										<?php echo e("projects-name-3") ?>
+									</h4>
+									<p>
+										<?php echo e("projects-title-3") ?>
+									</p>
+								</div>
+							</div>	
+						</a>
 
-							<a href="p.php?id=12">
-								<div class="col-md-3 gallery-grid gallery1">
-									<img src="images/p12.jpg" class="img-responsive" alt="/">
-									<div class="textbox">
-										<h4>
-											<?php echo e("projects-name-12") ?>
-										</h4>
-										<p>
-											<?php echo e("projects-title-12") ?>
-										</p>
-									</div>
+						<a href="p.php?id=12">
+							<div class="col-md-3 gallery-grid gallery1">
+								<img src="images/p12.jpg" class="img-responsive" alt="/">
+								<div class="textbox">
+									<h4>
+										<?php echo e("projects-name-12") ?>
+									</h4>
+									<p>
+										<?php echo e("projects-title-12") ?>
+									</p>
 								</div>
-							</a>
-
-							<a href="p.php?id=2">
-								<div class="col-md-3 gallery-grid gallery1">
-									<img src="images/p2.jpg" class="img-responsive" alt="/">
-									<div class="textbox">
-										<h4>
-											<?php echo e("projects-name-2") ?>
-										</h4>
-										<p>
-											<?php echo e("projects-title-2") ?>
-										</p>
-									</div>
-								</div>
-							</a>
-
-							<a href="p.php?id=1">
-								<div class="col-md-3 gallery-grid gallery1">
-									<img src="images/p1.jpg" class="img-responsive" alt="/">
-									<div class="textbox">
-										<h4>
-											<?php echo e("projects-name-1") ?>
-										</h4>
-										<p>
-											<?php echo e("projects-title-1") ?>
-										</p>
-									</div>
-								</div>
-							</a>
-
-							<a href="p.php?id=11">
-								<div class="col-md-3 gallery-grid gallery1">
-									<img src="images/p11.jpg" class="img-responsive" alt="/">
-									<div class="textbox">
-										<h4>
-											<?php echo e("projects-name-11") ?>
-										</h4>
-										<p>
-											<?php echo e("projects-title-11") ?>
-										</p>
-									</div>
-								</div>
-							</a>
-							
-							<a href="p.php?id=4">
-								<div class="col-md-3 gallery-grid gallery1">
-									<img src="images/p4.jpg" class="img-responsive" alt="/">
-									<div class="textbox">
-										<h4>
-											<?php echo e("projects-name-4") ?>
-										</h4>
-										<p>
-											<?php echo e("projects-title-4") ?>
-										</p>
-									</div>
-								</div>
-							</a>
-							
-							<a href="p.php?id=5">
-								<div class="col-md-3 gallery-grid gallery1">
-									<img src="images/p5.jpg" class="img-responsive" alt="/">
-									<div class="textbox">
-										<h4>
-											<?php echo e("projects-name-5") ?>
-										</h4>
-										<p>
-											<?php echo e("projects-title-5") ?>
-										</p>
-									</div>
-								</div>
-							</a>
-							
-							<a href="p.php?id=6">
-								<div class="col-md-3 gallery-grid gallery1">
-									<img src="images/p6.jpg" class="img-responsive" alt="/">
-									<div class="textbox">
-										<h4>
-											<?php echo e("projects-name-6") ?>
-										</h4>
-										<p>
-											<?php echo e("projects-title-6") ?>
-										</p>
-									</div>
-								</div>
-							</a>
-
-							<a href="p.php?id=10">
-								<div class="col-md-3 gallery-grid gallery1">
-									<img src="images/p10.jpg" class="img-responsive" alt="/">
-									<div class="textbox">
-										<h4>
-											<?php echo e("projects-name-10") ?>
-										</h4>
-										<p>
-											<?php echo e("projects-title-10") ?>
-										</p>
-									</div>
-								</div>	
-							</a>		
-							<div class="clearfix"> </div>
-						</div>
-						<link rel="stylesheet" href="css/swipebox.css">
-						<script src="js/jquery.swipebox.min.js"></script>
-						<script type="text/javascript">
-							jQuery(function($) {
-								$(".swipebox").swipebox();
-							});
-						</script>
+							</div>
+						</a>	
+						<div class="clearfix"> </div>
 					</div>
-				</div>
-			</div>
-			<!--//portfolio-->
 
-			<!--testimonials-->
-			<div class="testimonials" id="testimonial">
-				<div class="container">
-					<h3><?php echo e("testimonial") ?></h3>
-					<div class="strip text-center"><img src="images/test.png" alt=" "/></div>
-					<!-- responsiveslides -->
-					<script src="js/responsiveslides.min.js"></script>
-					<script>
+
+					<link rel="stylesheet" href="css/swipebox.css">
+					<script src="js/jquery.swipebox.min.js"></script>
+					<script type="text/javascript">
+						jQuery(function($) {
+							$(".swipebox").swipebox();
+						});
+					</script>
+				</div>
+
+				<br><br><br>
+				<h2 style="text-align: left; color: white;"><?php echo e("projects-others") ?></h2>	
+				<div class="gallery-grids">
+					<div class="top-gallery">
+
+
+
+						<a href="p.php?id=8">
+							<div class="col-md-2 gallery-grid gallery1">
+								<img src="images/p8.jpg" class="img-responsive" alt="/">
+								<div class="textbox">
+									<h4>
+										<?php echo e("projects-name-8") ?>
+									</h4>
+									<p>
+										<?php echo e("projects-title-8") ?>
+									</p>
+								</div>
+							</div>
+						</a>
+
+						<a href="p.php?id=2">
+							<div class="col-md-2 gallery-grid gallery1">
+								<img src="images/p2.jpg" class="img-responsive" alt="/">
+								<div class="textbox">
+									<h4>
+										<?php echo e("projects-name-2") ?>
+									</h4>
+									<p>
+										<?php echo e("projects-title-2") ?>
+									</p>
+								</div>
+							</div>
+						</a>
+
+						<a href="p.php?id=1">
+							<div class="col-md-2 gallery-grid gallery1">
+								<img src="images/p1.jpg" class="img-responsive" alt="/">
+								<div class="textbox">
+									<h4>
+										<?php echo e("projects-name-1") ?>
+									</h4>
+									<p>
+										<?php echo e("projects-title-1") ?>
+									</p>
+								</div>
+							</div>
+						</a>
+
+
+						<a href="p.php?id=4">
+							<div class="col-md-2 gallery-grid gallery1">
+								<img src="images/p4.jpg" class="img-responsive" alt="/">
+								<div class="textbox">
+									<h4>
+										<?php echo e("projects-name-4") ?>
+									</h4>
+									<p>
+										<?php echo e("projects-title-4") ?>
+									</p>
+								</div>
+							</div>
+						</a>
+
+						<a href="p.php?id=5">
+							<div class="col-md-2 gallery-grid gallery1">
+								<img src="images/p5.jpg" class="img-responsive" alt="/">
+								<div class="textbox">
+									<h4>
+										<?php echo e("projects-name-5") ?>
+									</h4>
+									<p>
+										<?php echo e("projects-title-5") ?>
+									</p>
+								</div>
+							</div>
+						</a>
+
+						<a href="p.php?id=6">
+							<div class="col-md-2 gallery-grid gallery1">
+								<img src="images/p6.jpg" class="img-responsive" alt="/">
+								<div class="textbox">
+									<h4>
+										<?php echo e("projects-name-6") ?>
+									</h4>
+									<p>
+										<?php echo e("projects-title-6") ?>
+									</p>
+								</div>
+							</div>
+						</a>
+
+						<a href="p.php?id=10">
+							<div class="col-md-2 gallery-grid gallery1">
+								<img src="images/p10.jpg" class="img-responsive" alt="/">
+								<div class="textbox">
+									<h4>
+										<?php echo e("projects-name-10") ?>
+									</h4>
+									<p>
+										<?php echo e("projects-title-10") ?>
+									</p>
+								</div>
+							</div>	
+						</a>		
+						<div class="clearfix"> </div>
+					</div>
+
+
+
+
+
+					<link rel="stylesheet" href="css/swipebox.css">
+					<script src="js/jquery.swipebox.min.js"></script>
+					<script type="text/javascript">
+						jQuery(function($) {
+							$(".swipebox").swipebox();
+						});
+					</script>
+				</div>
+
+
+
+
+
+
+
+
+
+			</div>
+			
+		</div>
+
+
+		<!--testimonials-->
+		<div class="testimonials" id="testimonial">
+			<div class="container">
+				<h3><?php echo e("testimonial") ?></h3>
+				<div class="strip text-center"><img src="images/test.png" alt=" "/></div>
+				<!-- responsiveslides -->
+				<script src="js/responsiveslides.min.js"></script>
+				<script>
 							// You can also use "$(window).load(function() {"
 							$(function () {
 							 // Slideshow 4
