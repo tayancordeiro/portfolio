@@ -17,6 +17,8 @@
 
         //PROJECTS
         "projects" => "PROJECTS",
+        "projects-highlights" => "Highlights",
+        "projects-others" => "Others",
         "projects-content" => "Expertise minimizes risks and brings <b>results!</b>
   			<br>Here are some of my top projects.",
         "projects-name-1" => "Events App",
@@ -38,8 +40,8 @@
         "projects-title-6" => "Product Owner",
         "projects-detail-6" => "---",
         "projects-name-7" => "Start55",
-        "projects-title-7" => "Idealizer and CTO",
-        "projects-detail-7" => "Support and acceleration solution for entrepreneurship for mature people.",
+        "projects-title-7" => "Idealizer and Product Lead",
+        "projects-detail-7" => "Solution that support and accelerate entrepreneurship for mature people.",
         "projects-name-8" => "Convergence",
         "projects-title-8" => "Scrum Master",
         "projects-detail-8" => "Natura was in a moment to unify its digital and presencial business models, so we call it the 'Convergence' program. I was in charge of the attraction and welcome service, in wich we developed a package of improvements in the registration and reporting tools for our sales force.",
@@ -51,10 +53,10 @@
         "projects-detail-10" => "---",
         "projects-name-11" => "Virtual Assistant 'Nat'",
         "projects-title-11" => "Product Owner",
-        "projects-detail-11" => "We develop an intelligence capable of interacting with clients with intelligent responses and with natural language and, over time, we implement new functionalities to automate some services.",
+        "projects-detail-11" => "We've develop an solution capable of interacting with clients with intelligent responses and natural language. We've created 'Nat', the first Natura's I.A.",
         "projects-name-12" => "MasterChef Agile",
         "projects-title-12" => "Idealizer and Speaker",
-        "projects-detail-12" => "I was invited to speak at an Agility event. I proposed to make a different dynamics where, through assembly of pizzas, we apply concepts of agility simulating a day to day of a real team. In the end the team that made the best pizzas won 'Masterchef' ;-)",
+        "projects-detail-12" => "I was invited to speak at an Agile event. I suggested a different aproach where, through assembly of pizzas, we would apply concepts of agility simulating a real work situation. In the end the team that made the best pizza won the competition we called 'Masterchef Agile' ;-)",
 
         //TESTIMONIALS
         "testimonial" => "TESTIMONIALS",

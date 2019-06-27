@@ -15,6 +15,8 @@
 
         //PROJECTS
         "projects" => "PROYECTOS",
+        "projects-highlights" => "Destaques",
+        "projects-others" => "Otros",
         "projects-content" => "Lo que llamamos '<b>conocimiento de causa</b>'.
   			Experiencia minimiza los riesgos y trae <b>resultados!</b>
   			Aquí están algunos de mis principales proyectos.",
@@ -37,7 +39,7 @@
         "projects-title-6" => "Product Owner",
         "projects-detail-6" => "---",
         "projects-name-7" => "Start55",
-        "projects-title-7" => "Idealizador y CTO",
+        "projects-title-7" => "Idealizador y Product Lead",
         "projects-detail-7" => "Solucion de apoyo y aceleración al emprendedor para personas maduras.",
         "projects-name-8" => "Convergencia",
         "projects-title-8" => "Scrum Master",
@@ -50,10 +52,10 @@
         "projects-detail-10" => "---",
         "projects-name-11" => "Asistente Virtual 'Nat'",
         "projects-title-11" => "Product Owner",
-        "projects-detail-11" => "Desarrollamos una inteligencia capaz de interactuar con clientes con respuestas inteligentes y con lenguaje natural y, con el paso del tiempo, implementamos nuevas funcionalidades para automatizar algunos servicios.",
+        "projects-detail-11" => "Desarrollamos una solución pacífica para interactuar con clientes con respuestas inteligentes y con lenguaje natural. Creamos a 'Nat', la primera I.A de Natura.",
         "projects-name-12" => "MasterChef Agile",
         "projects-title-12" => "Idealizador y Conferenciante",        
-        "projects-detail-12" => "Fui invitado a hablar en un evento sobre Agilidad. Propuso hacer una dinámica diferente donde, a través de montaje de pizzas, aplicamos conceptos de agilidad simulando un día a día de un equipo real. Al final el equipo que hiciera las mejores pizzas ganaba 'Masterchef' ;-)",
+        "projects-detail-12" => "He sido invitado a hablar en un evento Ágil. Sugerí un enfoque diferente donde, a través del montaje de pizzas, aplicaríamos conceptos de agilidad simulando una situación real de trabajo. Al final el equipo que hizo la mejor pizza ganó la competición que llamamos 'Masterchef Agile' ;-)",
 
         //TESTIMONIALS
         "testimonial" => "TESTIMONIOS",
