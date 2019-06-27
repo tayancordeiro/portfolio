@@ -40,7 +40,7 @@
 
 								<?php 
 
-								$entries = scandir(".\images\projects\p".$pid);
+								$entries = scandir("images/projects/p".$pid);
 								$filelist = array();
 								foreach($entries as $entry) {
 									$filelist[] = $entry;
